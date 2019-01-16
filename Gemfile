@@ -32,7 +32,9 @@ ruby '~> 2.5.1'
 
 gem 'actionpack-xml_parser', '~> 2.0.0'
 gem 'activemodel-serializers-xml', '~> 1.0.1'
+gem 'activerecord-import', '~> 0.28.1'
 gem 'activerecord-session_store', '~> 1.1.0'
+
 gem 'rails', '~> 5.2.2'
 gem 'responders', '~> 2.4'
 gem "listen", "~> 3.1" # Use for event-based reloaders
